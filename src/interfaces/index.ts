@@ -1,1 +1,1 @@
-export * from "./reqres.interface";
+export * from './reqres.interface'
